@@ -45,7 +45,7 @@ addbtns[3].onclick = function(){
     items.appendChild(newitem);
     cart+="h";
     console.log(cart)
-    x += 500; 
+    x += 899,99; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -57,7 +57,7 @@ addbtns[4].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 500; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -81,7 +81,7 @@ addbtns[6].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 200; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -93,7 +93,7 @@ addbtns[7].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 680; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -105,7 +105,7 @@ addbtns[8].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 120; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -117,7 +117,7 @@ addbtns[9].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 100; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -129,7 +129,7 @@ addbtns[10].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 450,66; 
     total.innerHTML = x+ "kr";
     cartBtnCheck();
 
@@ -141,7 +141,7 @@ addbtns[11].onclick = function(){
     items.appendChild(newitem);
     cart+="p";
     console.log(cart)
-    x += 369,99; 
+    x += 20; 
     total.innerHTML = x + "kr";
     cartBtnCheck();
 
